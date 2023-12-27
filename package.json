@@ -1,0 +1,17 @@
+{
+  "name": "digital-wallet-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projectSetupScript.js",
+  "scripts": {
+    "start": "npx ts-node projectSetupScript.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
